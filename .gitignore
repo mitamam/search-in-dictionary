@@ -1,2 +1,4 @@
-# ignore .DS_Store file in the mac OS
-.DS_Store
+# .DS_Store file in the mac OS
+*.DS_Store
+# vscode files
+.vscode
